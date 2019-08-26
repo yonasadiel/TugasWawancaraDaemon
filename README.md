@@ -1,4 +1,5 @@
 # Tugas Wawancara Daemon
+## Deadline:  Rabu, 28 Agustus 2019 jam 01.00 WIB
 1. Markdown tiap wawancara di taruh di folder yang namanya NIM Daemon yang diwawancara (jika belum ada, langsung buat)
 2. Format nama markdown adalah NIM TPB tiap pewawancara dipisah oleh "-", contoh: 16518001-16518002-16518003.md
 3. Setiap pewawancara harus pernah commit di file markdown wawancara mereka
