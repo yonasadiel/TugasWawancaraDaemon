@@ -1,5 +1,6 @@
 # Tugas Wawancara Daemon
-## Deadline :  Rabu, 28 Agustus 2019 jam 01.00 WIB (jangan ngerjain mepet!!!)
+## Deadline :  Rabu, 28 Agustus 2019 jam 01.00 WIB
+
 ### Spek Singkat
 - Markdown tiap wawancara di taruh di folder yang namanya NIM Daemon yang diwawancara (jika belum ada, langsung buat)
 - Format nama markdown adalah NIM TPB tiap pewawancara dipisah oleh "-", contoh: 16518001-16518002-16518003.md
@@ -13,5 +14,12 @@ Spek lebih lanjut bisa dilihat di [sini](https://mail-attachment.googleuserconte
 - Buat cek NIM para [Daemon](https://docs.google.com/spreadsheets/d/14vMBCfTijE3iCQ5cNYAtkkLhhrPjDknf_jcYrm0HiJ0/edit#gid=0) yang diwawancara, bisa buka NIM finder(seperti [ini](https://yonasadiel.com/lamia)).
 - Bingung cara bikin markdown? [nih](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 - Gimana cara bikin folder baru? Pull dulu, bikin folder, push.
-- Kalo mau cepet, ngedit markdownnya bisa langsung di github.
+- Kalo mau cepet, ngedit markdownnya bisa langsung di github (coba aja tekan ikon pensil di atas kanan markdown ini).
 - Bingung cara pake git? [nih](https://lmgtfy.com/?q=git+tutorial).
+- Fotonya ditaroh gimana? Panitia ga ada ngasih spesifikasi buat foto, jadi terserah kalian. Aku saranin kalian taroh di satu folder sama ama folder wawancara kalian, terus taroh di markdown kaya gini.
+  ```markdown
+  ![alt text](./<nama_foto>.jpg)
+  ```
+- **JANGAN BIKIN BRANCH SAMA NGEDIT MARKDOWN WAWANCARA PUNYA YANG LAIN**
+
+**Semangat.**
