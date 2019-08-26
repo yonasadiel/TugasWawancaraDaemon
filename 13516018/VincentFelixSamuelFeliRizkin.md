@@ -1,5 +1,5 @@
 # Wawancara Daemon ''
-Pada hari ...
+Pada hari ini kuturut ayah ke kota
 - 
 
 mewawancarai kak
